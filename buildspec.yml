@@ -9,7 +9,6 @@ phases:
   install:
     runtime-versions:
       python: 3.11
-
   pre-build:
     commands:
       - echo "Installing dependencies..."
